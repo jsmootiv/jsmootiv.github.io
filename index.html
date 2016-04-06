@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span>
+          {{ post.date | date: "%b %-d, %Y" }} ::
+        </span>
+        {% if post.external_url %}
+          <a href="{{ post.external_url }}">
+        {% else %}
+          <a href="{{ post.url |  prepend: site.baseurl }}">
+        {% endif %}
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
