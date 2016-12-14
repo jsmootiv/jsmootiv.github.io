@@ -7,11 +7,12 @@
 
 # Site settings
 title: Jimi Smoot
+tagline: Software engineer who loves business
 email: jsfour {at} gmail {dot} com
 description: > # this means to ignore newlines until "baseurl:"
   Founder @meetvesper. Founded + sold 2 companies. Striving to build computers that help people make better decision.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.jimismoot.com" # the base hostname & protocol for your site
+url: "http://www.jsfour.com" # the base hostname & protocol for your site
 twitterUrl: "http://www.twitter.com/jsfour"
 githubUrl:  "http://www.github.com/jsmootiv"
 mediumUrl: "http://www.medium.com/@jsfour"
