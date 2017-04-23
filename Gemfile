@@ -1,7 +1,16 @@
 source 'https://rubygems.org'
-ruby '2.3.3'
+ruby RUBY_VERSION
 
-gem 'jekyll'
+gem "jekyll", "3.4.0"
 gem 'rouge'
-gem 'octopress', '~> 3.0'
-gem 'jekyll-sitemap'
+
+group :jekyll_plugins do
+   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-compose"
+   gem "jekyll-sitemap"
+   gem "jekyll-seo"
+   gem 'jekyll-auto-image'
+   gem "jekyll-seo-tag"
+end
+
+gem "nokogiri"

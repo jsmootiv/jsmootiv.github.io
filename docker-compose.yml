@@ -6,8 +6,28 @@ base: &base
 dev:
   <<: *base
 
-app:
+serve:
   <<: *base
-  command: jekyll serve --host '0.0.0.0'
+  command: bundle exec jekyll serve --drafts --host '0.0.0.0'
   ports:
     - "4000:4000"
+
+build:
+  <<: *base
+  entrypoint: bundle exec jekyll build
+
+draft:
+  <<: *base
+  entrypoint: bundle exec jekyll draft
+
+publish:
+  <<: *base
+  entrypoint: bundle exec jekyll publish
+
+unpublish:
+  <<: *base
+  entrypoint: bundle exec jekyll unpublish
+
+seo:
+  <<: *base
+  entrypoint: bundle exec jekyll-seo

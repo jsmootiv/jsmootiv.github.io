@@ -8,7 +8,7 @@ ENV APP_HOME /myapp
 RUN mkdir $APP_HOME
 WORKDIR $APP_HOME
 
-ADD Gemfile* $APP_HOME/
+ADD ./Gemfile* $APP_HOME/
 RUN bundle install --full-index
 
 ADD . $APP_HOME

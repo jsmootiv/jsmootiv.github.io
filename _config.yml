@@ -7,22 +7,44 @@
 
 # Site settings
 title: Jimi Smoot
-tagline: Software engineer who loves business
-email: jsfour {at} gmail {dot} com
+tagline: Entrepreneur in training
+email: jimi {at} jsfour {dot} com
 description: > # this means to ignore newlines until "baseurl:"
-  Founder @meetvesper. Founded + sold 2 companies. Striving to build computers that help people make better decision.
+  Entrepreneur in training
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jsfour.com" # the base hostname & protocol for your site
-twitterUrl: "http://www.twitter.com/jsfour"
-githubUrl:  "http://www.github.com/jsmootiv"
-mediumUrl: "http://www.medium.com/@jsfour"
-permalink: pretty
+# twitterUrl: "http://www.twitter.com/jsfour"
+# githubUrl:  "http://www.github.com/jsmootiv"
+# mediumUrl: "http://www.medium.com/@jsfour"
+twitter:
+  username: jsfour
+  url: "https://www.twitter.com/jsfour"
+medium:
+  url: "https://www.medium.com/@jsfour"
+github:
+  url: "https://www.github.com/jsmootiv"
+linkedin:
+  url: "https://www.linkedin.com/in/jsfour"
+permalink: /:title/
+feed:
+  path: atom.xml
+
+
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: /assets/defaults/1024-512-default.png
+
 
 # Build settings
 markdown: kramdown
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  # TODO: set it up so that the first image of the post is used by the SEO tag plugin. This doesnt seem to work
+  # - jekyll-auto-image
 
 exclude:
   - CNAME
