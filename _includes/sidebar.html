@@ -14,7 +14,8 @@
     <a class="sidebar-nav-item" href="{{ site.medium.url }}/">Medium</a>
     <a class="sidebar-nav-item" href="{{ site.linkedin.url }}">LinkedIn</a>
     <a class="sidebar-nav-item" href="{{ site.github.url }}">Github</a>
-    <a class="sidebar-nav-item" href="{{ "site.feed.url" | prepend: site.baseurl }}">Feed</a>
+    <a class="sidebar-nav-item" href="{{ site.feed.path | prepend: site.baseurl }}">Feed</a>
+    <a class="sidebar-nav-item" href="{{ site.sitemap.path | prepend: site.baseurl }}">Sitemap</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.

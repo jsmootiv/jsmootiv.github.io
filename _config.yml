@@ -26,8 +26,11 @@ github:
 linkedin:
   url: "https://www.linkedin.com/in/jsfour"
 permalink: /:title/
+
 feed:
-  path: atom.xml
+  path: feed.xml
+sitemap:
+  path: sitemap.xml
 
 
 # defaults:
