@@ -7,10 +7,10 @@
 
 # Site settings
 title: Jimi Smoot
-tagline: Entrepreneur in training
+tagline: Technical Product Manager
 email: jimi {at} jsfour {dot} com
 description: > # this means to ignore newlines until "baseurl:"
-  Entrepreneur in training
+  Technical Product Manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jsfour.com" # the base hostname & protocol for your site
 # twitterUrl: "http://www.twitter.com/jsfour"
