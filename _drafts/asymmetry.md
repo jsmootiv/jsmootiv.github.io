@@ -9,9 +9,15 @@ tags:
   - ethereum
 ---
 
-The other day I talked about how USDT has become a bit [untethered]({% link _posts/2017-04-22-untethered.md %}) and how you could technically take advantage of this market inefficiency to make a 7% profit.
+The other day I wrote about how USDT has become somewhat [untethered]({% link _posts/2017-04-22-untethered.md %}) from the US dollar and how you could technically take advantage of this market inefficiency to make a 7% profit.
 
-On paper this seems like a good idea.
+On paper this seems like a good idea. But is it really?
+
+- Volatility
+
+
+- Risk Adjusted volatility
+- CAPM
 
 Why fight the market when you can delegate to it?
 
