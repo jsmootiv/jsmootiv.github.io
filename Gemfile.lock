@@ -29,8 +29,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-sitemap (0.11.0)
       addressable (~> 2.4.0)
-    jekyll-time-to-read (0.1.2)
-      jekyll
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -62,7 +60,6 @@ DEPENDENCIES
   jekyll-seo
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-time-to-read
   nokogiri
   rouge
 

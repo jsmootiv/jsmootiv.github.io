@@ -22,9 +22,9 @@ linkedin:
 permalink: /:title/
 
 feed:
-  path: feed.xml
+  path: /feed.xml
 sitemap:
-  path: sitemap.xml
+  path: /sitemap.xml
 
 
 # defaults:
