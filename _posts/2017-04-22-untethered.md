@@ -4,6 +4,7 @@ title: Untethered
 excerpt: The theory behind USDT is simple. A company called Tether created their own token on top of Bitcoin using Omni Layer...
 image: assets/images/tether-spacewalk.png
 image_alt: Is tether untethered
+permalink: /untethered/
 tags:
   - cryptocurrency
   - bitcoin
@@ -33,7 +34,7 @@ Let's do a deep dive and find out:
 Poloniex is an exchange that only trades in cryptocurrencies. Therefore, to compute the BTC/USD price Poloniex uses a cryptocurrency called Tether (USDT).
 
 ## What is USDT?
-The theory behind USDT is simple. A company called Tether created their own token on top of Bitcoin using [Omni Layer](http://www.omnilayer.org/). Then Tether [holds 1 US dollar in a reserve fund for each USDT token issued](https://wallet.tether.to/transparency). So when you open up a Tether account and deposit $100 into it, Tether holds that $100 in reserve and then issues you 100 USDT tokens which you can then take into the exchanges and trade with. Whenever you decide that you want convert back to US dollars, you send the USDT tokens you've accumulated back to your Tether account and tell them to wire the equivalent money to your bank account.
+The theory behind USDT is simple. A company called Tether created their own token on top of Bitcoin using [Omni Layer](http://www.omnilayer.org/). Then Tether [holds 1 US dollar in a reserve fund for each USDT token issued](https://wallet.tether.to/transparency). So when you open up a Tether account and deposit $100 into it, Tether holds that $100 in reserve and then issues you 100 USDT tokens which you can then take into the exchanges and trade with. Whenever you decide that you want to convert back to US dollars, you send the USDT tokens you've accumulated back to your Tether account and tell them to wire the equivalent money to your bank account.
 
 *[See the Tether paper for additional details](https://bravenewcoin.com/assets/Whitepapers/Tether-White-Paper.pdf)*
 
