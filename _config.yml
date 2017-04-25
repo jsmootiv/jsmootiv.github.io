@@ -41,6 +41,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-time-to-read
   # TODO: set it up so that the first image of the post is used by the SEO tag plugin. This doesnt seem to work
   # - jekyll-auto-image
 

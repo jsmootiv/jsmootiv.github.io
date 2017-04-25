@@ -11,6 +11,7 @@ group :jekyll_plugins do
    gem "jekyll-seo"
    gem 'jekyll-auto-image'
    gem "jekyll-seo-tag"
+   gem "jekyll-time-to-read"
 end
 
 gem "nokogiri"
