@@ -41,6 +41,6 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-{% unless page.hide_comments %}
+{% if jekyll.environment == "production" and page.hide_comments != true %}
   {% include comments.html %}
-{% endunless %}
+{% endif %}
