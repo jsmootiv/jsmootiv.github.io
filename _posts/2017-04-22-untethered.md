@@ -2,7 +2,7 @@
 layout: post
 title: Untethered
 excerpt: The theory behind USDT is simple. A company called Tether created their own token on top of Bitcoin using Omni Layer...
-image: assets/images/tether-spacewalk.png
+image: /assets/images/tether-spacewalk.png
 image_alt: Is tether untethered
 permalink: /untethered/
 tags:
