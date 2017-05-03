@@ -5,7 +5,7 @@ tagline: Entrepreneur / Software Engineer
 email: jimi {at} jsfour {dot} com
 description: > # this means to ignore newlines until "baseurl:"
   Entrepreneur / Software Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:
 url: "http://www.jsfour.com" # the base hostname & protocol for your site
 # twitterUrl: "http://www.twitter.com/jsfour"
 # githubUrl:  "http://www.github.com/jsmootiv"
@@ -22,9 +22,9 @@ linkedin:
 permalink: /:title/
 
 feed:
-  path: /feed.xml
+  path: feed.xml
 sitemap:
-  path: /sitemap.xml
+  path: sitemap.xml
 
 
 # defaults:
@@ -39,6 +39,7 @@ sitemap:
 markdown: kramdown
 
 gems:
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   # TODO: set it up so that the first image of the post is used by the SEO tag plugin. This doesnt seem to work

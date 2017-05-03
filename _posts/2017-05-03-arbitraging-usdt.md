@@ -9,11 +9,13 @@ tags:
   - usdt
   - tether
   - cryptocurrencies
+  - arbitrage
+  - trading
 ---
 
 On paper setting up an arbitrage using BTC and USDT seems like a good idea. But is it really?
 
-The other day I wrote about [why there was a price difference between USDT and USD]({% link _posts/2017-04-22-untethered.md %}) and how you could take advantage of this market inefficiency to make a 7% profit.
+The other day I wrote about [why there was a price difference between USDT and USD]({{ site.url }}{% post_url 2017-04-22-untethered %}) and how you could take advantage of this market inefficiency to make a 7% profit.
 
 Today we will explore this idea some more.
 
@@ -23,7 +25,7 @@ Since to take the trade you would need to go from a bank to an exchange to BTC t
 
 Let's dissect each of these two risks separately.
 
-![BTC/USDT daily returns on Poloniex](/assets/images/usdt_btc_daily_returns_1_1_16-4_15_17.png)
+![BTC/USDT daily returns on Poloniex]({{ "/assets/images/usdt_btc_daily_returns_1_1_16-4_15_17.png" | absolute_url }}){:.center}
 
 Above is a distribution of the daily returns for on Poloniex BTC/USDT from January 2016 to mid-April 2017. Daily returns are the percentage difference in price between any given day and previous day.
 
@@ -37,7 +39,7 @@ At this point, you may think "if most of the time BTC is losing money how come i
 
 The price chart for the same period confirms this.
 
-![BTC/USDT price 1/1/16-4/15/17](/assets/images/usdt_btc_daily_price_1_1_16-4_15_17.png)
+![BTC/USDT price 1/1/16-4/15/17]({{ "/assets/images/usdt_btc_daily_price_1_1_16-4_15_17.png" | absolute_url }}){:.center}
 
 So let's quickly summarize:
 1. 58.5987% of the days BTC has a lower price than the day before
@@ -55,7 +57,7 @@ Let's resample our daily returns down to 100-minute returns using the last closi
 
 Here is what that distribution looks like.
 
-![BTC/USDT 100 minute returns 1/1/16-4/15/17](/assets/images/usdt_btc_100_min_returns_1_1_16-4_15_17.png)
+![BTC/USDT 100 minute returns 1/1/16-4/15/17]({{ "/assets/images/usdt_btc_100_min_returns_1_1_16-4_15_17.png" | absolute_url }}){:.center}
 
 This looks promising. Here is what I noticed:
 - 52.1008% of the 100 minute periods the return was negative
