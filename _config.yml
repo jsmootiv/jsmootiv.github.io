@@ -1,6 +1,7 @@
 # TODO: Impliment https://github.com/jekyll/jekyll-assets
 # Site settings
 title: Jimi Smoot
+author: Jimi Smoot # Default
 tagline: Entrepreneur / Software Engineer
 email: jimi {at} jsfour {dot} com
 description: > # this means to ignore newlines until "baseurl:"
