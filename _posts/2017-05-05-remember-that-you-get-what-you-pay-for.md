@@ -15,7 +15,7 @@ Take for example a recent episode I saw online.
 
 It was late and a family with two young children were on the last leg of their trip home from Disneyworld. They boarded the last flight of the night but were forced to deplane because one of the family member's seats was oversold.
 
-"But I paid for this seat" the father argued. The security guard didn't relent. Another passenger was appalled and decided to take action by recording the entire episode and sharing it on social media. Everybody on the interwebs talked crap about the airline for a week while secretly going to [cheaptickets.com](http://www.cheaptickets.com) to book their next flight with the airline, because "the flights on others are too expensive on other carriers".
+"But I paid for this seat" the father argued. The security guard didn't relent. Another passenger was appalled and decided to take action by recording the entire episode and sharing it on social media. Everybody on the interwebs talked crap about the airline for a week while secretly going to [cheaptickets.com](http://www.cheaptickets.com) to book their next flight with the airline, because "the flights on the others are too expensive".
 
 It's easy to criticize the airlines for overbooking and bad service but it's also easy to overlook one simple thing:
 
