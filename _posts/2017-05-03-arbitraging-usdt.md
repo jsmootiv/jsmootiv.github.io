@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arbitraging Bitcoin With USDT
+title: Arbitraging Bitcoin with USDT
 image: /assets/images/btc_usdt_poloniex_5-2.png
 image_alt: USDT Arbitrage opportunity?
 excerpt: On paper setting up an arbitrage using BTC and USDT seems like a good idea. But is it really?
