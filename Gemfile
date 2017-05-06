@@ -14,3 +14,4 @@ group :jekyll_plugins do
 end
 
 gem "nokogiri"
+gem "html-proofer"
