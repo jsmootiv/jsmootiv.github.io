@@ -22,7 +22,7 @@ Here is the breakdown of his options:
 
 This concept is something that can be difficult to grasp at first but once you understand it you will never see the world the same way.
 
-#### Let me explain in a context you may understand
+## Let me explain in a context you may understand
 
 Imagine if you are in sales and you are required to close $2M in revenue this year for your company.
 
@@ -36,7 +36,7 @@ I could work this into the calculations, however, to simplify the math lets assu
 
 This means that any investment of your time should, at a minimum, should generate over $961.54/hour otherwise you would never get to your goal of $2MM.
 
-#### Multitasking is a myth
+## Multitasking is a myth
 
 When doing something that requires no brain function, such as eating while watching "The Wire" multitasking can be extremely productive.
 
@@ -46,7 +46,7 @@ Given that you are locked into one task that needs to generate the $961/hr, let'
 
 [Click here to access a model that can be copied and tweaked to display the values for your business.](https://docs.google.com/a/octaviuslabs.com/spreadsheets/d/1WDI16xMU7FjRcWDBaDXfSNPmlTYFdWcW30jW_fk-i6E/edit?usp=sharing)
 
-#### Managing your own schedule costs $4,615
+## Managing your own schedule costs $4,615
 
 Researchers from [Doodle](http://readwrite.com/2010/10/26/businesses-waste-time-scheduling-meetings) ran a panel of 1,500 executives and administrators and found that the average amount of time spent scheduling per week is a staggering 4.8 hours. I don't know anyone who enjoys scheduling and although it is absolutely critical, is it is something that can definitely be done for less than $961/hr.
 
@@ -54,7 +54,7 @@ Researchers from [Doodle](http://readwrite.com/2010/10/26/businesses-waste-time-
 * $961.54 per hour
 * **$4,615 total amount invested per week on scheduling**
 
-#### Making travel arrangements costs $961.54
+## Making travel arrangements costs $961.54
 
 Assuming that you spend 1 hour researching and booking travel trip the math is fairly easy at $961.54 per trip. When your travel starts to scale to 3 or 4 trips per month, this can get extremely expensive quickly.
 
@@ -62,7 +62,7 @@ Assuming that you spend 1 hour researching and booking travel trip the math is 
 * $961.54 per hour
 * **$961.54 total amount invested per trip that you book**
 
-#### Compiling your expense report costs $802
+## Compiling your expense report costs $802
 
 If you aren't fortunate enough to be at a company that uses Expensify or Concur, you are probably doing expense reports with excel. Assuming you have $5,000 in expenses with an average per transaction of $200 you will have 25 receipts per month. Making a copy and entering the data into excel probably takes you around 2 minutes per receipts, which means that every month you invest 50 minutes or ~$802 into doing your expenses.
 
@@ -70,7 +70,7 @@ If you aren't fortunate enough to be at a company that uses Expensify or Concur,
 * $961.54 per hour
 * **$802 total amount invested per report**
 
-#### Switching tasks even costs you $480/week
+## Switching tasks even costs you $480/week
 
 The other major cost is in switching from one task to another. In the engineering world, people call switching between unrelated tasks context switching€ and understand that there is a significant cost in it taking place. For instance, if you are polishing up a $500k proposal then stop to send a calendar invitation to another client, the cost of the context switch is more than you would imagine.
 
@@ -80,7 +80,7 @@ Remember, multitasking is a myth. It takes the mind a couple of minutes to stop
 * $961.54 per hour
 * **$480 invested per week simply switching tasks**
 
-#### First Class And Beyond
+## First Class And Beyond
 
 This paradigm can even be extended into other areas. For example, flying first class could be a good investment for trips of a certain length. There is a cost associated to getting off of a 5 hour flight after being on the road for 20 days and not being fresh enough to pitch a $500k deal. Identify the cost and compare it to the upside of the opportunity.
 
