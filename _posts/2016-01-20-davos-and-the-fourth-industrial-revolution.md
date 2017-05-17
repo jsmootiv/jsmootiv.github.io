@@ -14,7 +14,7 @@ Many of the world's brightest and most influential minds just met at the World E
 
 In the face of profound changes that extend well beyond the horizons of business, it's crucial that the influential voices bring the discussion to the mainstream.
 
-#### How the WEF is expanding the conversation
+## How the WEF is expanding the conversation
 
 Klaus Schwab founded the WEF in 1971 under the moniker European Management Forum. It was more of an elite business retreat, an opportunity to discuss management practices and share insights, than a serious attempt at facing down global issues. The sentiment of the meeting began to shift very recently to take on a weightier tone, addressing social issues like climate change and poverty.
 
@@ -34,7 +34,7 @@ Job loss has been a major concern throughout every Industrial Revolution we've e
 
 It's important to keep having a conversation about how this revolution will initially impact jobs. It's also important to consider longer term benefits. For one, AI can seriously lower the barriers to entry for small business creation by simplifying processes and lowering costs. The ability to do more with less and create a seamless customer experience leads to more successful business, and [successful small businesses are at the forefront of job creation](https://www.sba.gov/blogs/small-businesses-create-2-million-jobs).
 
-#### Small business, and the future of AI
+## Small business, and the future of AI
 
 Henry Ford [famously said](https://en.wikiquote.org/wiki/Henry_Ford): Any customer can have a car painted any color that he wants so long as it is black. This is the old paradigm (a revolution of its own at the time) where customers fit inside the limited box manufacturers make for them. Thanks to artificial intelligence, we're shifting away from that mindset.
 
