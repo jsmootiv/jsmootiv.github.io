@@ -3,6 +3,9 @@ layout: post
 title: 5 ways to use a virtual assistant service
 date: 2016-07-24 04:58:13
 image: /assets/images/working-1469823354239.png
+tags:
+  - virtual assistant
+  - productivity
 ---
 
 You've signed up for a virtual assistant service. You may find yourself thinking: "ok so now what do I do?"

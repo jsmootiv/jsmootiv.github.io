@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Economic Downturns Can Benefit You Business If You Embrace Antifragility
-date: 2016-07-22 18:22:05
+title: Economic downturns can benefit you business
+date: 2016-10-22
 image: /assets/images/broken_glass_00405790_1440x900-1469212284647.jpg
 tags:
   - antifragile
