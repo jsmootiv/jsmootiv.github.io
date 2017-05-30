@@ -2,6 +2,7 @@
 layout: post
 title: 10% is what makes a world class performer
 date: 2016-09-12
+excerpt: What's the difference between mediocre results and exceptional results? Answering this question took me back to running sprints in college.
 tags:
   - work
   - performance
