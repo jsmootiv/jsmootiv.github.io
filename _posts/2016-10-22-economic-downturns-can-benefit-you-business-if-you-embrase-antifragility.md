@@ -3,6 +3,7 @@ layout: post
 title: Economic downturns can benefit you business
 date: 2016-10-22
 image: /assets/images/broken_glass_00405790_1440x900-1469212284647.jpg
+excerpt: Do you every wonder why some people who have had incredibly difficult and intense life experiences end up being so successful?
 tags:
   - antifragile
   - management
@@ -13,21 +14,17 @@ Do you every wonder why some people who have had incredibly difficult and intens
 
 Or why some organizations seems to thrive in completely chaotic environments? While others, often those that appear more experienced or competent, seem to panic and crumble in times of change?
 
-There is actually a formula for this confusion  and Nassim Taleb (author of [The Black Swan](http://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X) and [Fooled by Randomness](http://www.amazon.com/gp/product/0812975219/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=081297381X&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=1W3H4P82EJTEY0SA36Q9)) has cracked the code.
+There is actually a formula for this confusion and Nassim Taleb (author of [The Black Swan](http://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X) and [Fooled by Randomness](http://www.amazon.com/gp/product/0812975219/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=081297381X&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=1W3H4P82EJTEY0SA36Q9)) has cracked the code.
 
 In his book Antifragile Taleb explores the idea that some structures, across business, culture, and even biology, actually benefit from shock, volatility, and randomness. He goes on to say that those things which profit from this disorder have a distinct quality that can be considered the opposite of fragility.
 
 Whilst the common idea is that something that is not fragile is strong, Taleb proposes that it is not strength, structure, or rigidity that are the opposites in this case. These qualities, that you might call robust or resilient, can allow you to survive shock, but they don't actually benefit from the experience.
-
-
 
 > As opposed to fragile items, which will shatter when they are met with stress or shock, something that is antifragilewill grow and profit from the chaos.
 
 Being antifragile is not being resilient. Being resilient means that you withstand shock, being antifragile means you gain from it  and this is a key difference between the two.
 
 The analogy Taleb draws is from the Greek myth of the Hydra, a many headed serpent which haunted the ancient world. Every time someone would cut off a head of this beast, two would grow back meaning every time Hydra was shocked or stressed, it would bounce back even fiercer and more threatening than before.
-
-
 
 ## The business of a fragile economy
 

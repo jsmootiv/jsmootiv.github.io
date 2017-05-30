@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using game theory to close more sales
+excerpt: Mastering the art of strategy is crucial if you want to be great at sales. That means understanding and knowing how to apply the fundamental principles of game theory to your interactions with clients and customers.
 date: 2016-07-22 21:13:58
 image: /assets/images/game_of_thrones-1469222254823.jpg
 ---
