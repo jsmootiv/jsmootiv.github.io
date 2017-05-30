@@ -1,12 +1,14 @@
 ---
 layout: post
-title: What you need to know to get started in cryptocurrencies
+title: My thoughts on cryptocurrency investing
 image: /assets/images/gordon-gekko_desk.jpg
 excerpt: Here is what you should think about before investing in cryptocurrencies
+permalink: /what-you-need-to-know-to-get-started-in-cryptocurrencies/
 tags:
   - bitcoin
   - guides
   - cryptocurrency
+  - resources
 ---
 
 Over the past couple of months, I've had a few people reach out to me to ask about my thoughts on the "fill in the blank" ICO or "investing in Bitcoin". The frequency of these requests has gone up, so there are probably a bunch of others interested in the space. I wrote this so that anyone else who cares about what I think has a reference.
