@@ -18,7 +18,7 @@ First a quick little background on me. I've been following cryptocurrencies sinc
 Below are my thoughts and general advice for those interested in getting into cryptocurrencies.
 
 ## Despite some of the crazy returns, crypto is a long term bet.
-Every time I get an email about how to get into this space I check the Bitcoin price in terror price in terror. Mostly because I'm reminded of the scene from "The Big Short" when, after talking to an overleveraged stripper, one of the hedge fund managers calls his partner and says "There is a bubble...its time to call bullshit".
+Every time I get an email about how to get into this space I check the Bitcoin price in terror. Mostly because I'm reminded of the scene from "The Big Short" when, after talking to an overleveraged stripper, one of the hedge fund managers calls his partner and says "There is a bubble...its time to call bullshit".
 
 But then I remember something that makes me all of a sudden feel calm; this is a long-term investment.
 
@@ -26,7 +26,7 @@ The [CIA fact book](https://www.cia.gov/library/Publications/the-world-factbook/
 
 Seems like there is some room for growth, let's dig deeper.
 
-There are 7 billion people in the world, but currently [there are just over 15 million Bitcoin wallets](https://blockchain.info/charts/my-wallet-n-users). That means that there could oldy be wallets for 0.2% people in the world --though most of the wallets are probably held by a smaller group of people.
+There are 7 billion people in the world, but currently [there are just over 15 million Bitcoin wallets](https://blockchain.info/charts/my-wallet-n-users). That means that there could only be wallets for 0.2% people in the world --though most of the wallets are probably held by a smaller group of people.
 
 ![Total Bitcoin wallets]({{ "/assets/images/bitcoin_wallet_users_may_17.png" | absolute_url }})
 
@@ -34,21 +34,21 @@ So cryptocurrency as a category has a lot of room to grow. The question you shou
 
 **The answer is unequivocal. Yes.**
 
-It's hard for me to believe that 100 years from now people will still be making global online transactions in local currencies. Will the medium of exchange be Bitcoin, Ethereum, Litecoin, or Titcoin? I'm not sure. I just think that it will be very unlikely that in the future we will be paying offline currencies for services render online --like software, CPU time, storage, etc.
+It's hard for me to believe that 100 years from now people will still be making global online transactions in local currencies. Will the medium of exchange be Bitcoin, Ethereum, Litecoin, or Titcoin? I'm not sure. I just think that it will be very unlikely that in the future we will be paying offline currencies for services rendered online --like software, CPU time, storage, etc.
 
 Assuming that this is true, you want to buy and hold through all of the peaks and troughs because as the other 99.8% of the population starts to demand crypto the price will go up due to limited supply --at least in Bitcoin's case.
 
 *One thing that I've done is buy a few thousand dollars worth of Ethereum and Bitcoin for my kids and put it in cold storage. I think of this like a lottery ticket and won't be pissed off if it goes to zero.*
 
 ## Keep it simple.
-I've had a few people reach out to me about ICOs that I've never heard of. Pretty much every time I respond by saying "keep it simple, open up [Coinbase](https://www.coinbase.com) account and convert 75% of your investment into Bitcoin and the remaining 25% into Ethereum". This space provides access to asymmetry (I cover this below) so there isn't really a need to get creative. Plus the risk is already high enough, why do some crazy ICO and increase your probability of loss?
+I've had a few people reach out to me about ICOs that I've never heard of. Pretty much every time I respond by saying "keep it simple, open up a [Coinbase](https://www.coinbase.com) account and convert 75% of your investment into Bitcoin and the remaining 25% into Ethereum". This space provides access to asymmetry (I cover this below) so there isn't really a need to get creative. Plus the risk is already high enough, why do some crazy ICO and increase your probability of loss?
 
 Once you start to get the hang of things you can set up an [SFOX](https://www.sfox.com) account and try to execute some arbitrages or buy some altcoins on [Poloniex](https://poloniex.com).
 
 Remember that you have a 47.4% chance at doubling your money on a roulette table. So if you are really looking for money get on a plane and go to Vegas. Don't put all of your money in on something like [Titcoin](https://en.wikipedia.org/wiki/Titcoin) where the odds of losing are unknown yet you have a similar "roulette-table" style payout.
 
 ## Don't invest more than you would be willing to lose.
-Cryptocurrencies are still very experimental so much of the current growth is in anticipation of future usage. Right now you can only use [Bitcoin a few places](https://support.coinbase.com/customer/portal/articles/1834716-where-can-i-spend-bitcoins-) and transactions take 30 minutes. There are just a few of the issues driven by the underlying technology prevent broader adoption. Fortunately, the technology was built so that these things can be resolved if the people that build the technology and run the network agree. However, the miners (network nodes) and the developers (technology builders) are at each other's throats right now. If the factions can't agree and improve the technology it will inhibit the usability of Bitcoin long term --and thus the price.
+Cryptocurrencies are still very experimental so much of the current growth is in anticipation of future usage. Right now you can only use [Bitcoin in a few places](https://support.coinbase.com/customer/portal/articles/1834716-where-can-i-spend-bitcoins-) and transactions take 30 minutes. There are just a few of the issues driven by the underlying technology that prevent broader adoption. Fortunately, the technology was built so that these things can be resolved if the people that build the technology and run the network agree. However, the miners (network nodes) and the developers (technology builders) are at each other's throats right now. If the factions can't agree and improve the technology it will inhibit the usability of Bitcoin long term --and thus the price.
 
 Also, we don't know how regulation will affect the market. Decentralized currencies may sound like a good thing for libertarians but it's a real threat to the current centralized financial system. There is a non-zero chance that governments will come in and make owning, or transacting, cryptocurrency illegal --this happened in Ecuador.
 
@@ -85,6 +85,6 @@ Here are a few things that you can do to increase your security.
 - **Go cold storage** If you are super paranoid (or investing more than $3000) get a cold storage wallet like the [Trezor.io](https://trezor.io/) or [KeepKey](https://www.keepkey.com/) and store your coins on that.
 - **Change your email passwords or setup a new account** most people have a password that is easy to remember. You, however, want your password to be hard to remember because if it's hard for you, it will be hard for a hacker to figure out. Since you followed my above advice and setup LastPass generate a password with that.
 
-If you've got it this far then you understand what I think about investing in cryptocurrency. At the end of the day, it's all about what you want to risk do just be careful. If you still have any questions drop them in the comments and I'll be sure to answer them.
+If you've got it this far then you understand what I think about investing in cryptocurrency. At the end of the day, it's all about what you want to risk so just be careful. If you still have any questions drop them in the comments and I'll be sure to answer them.
 
 **Disclaimer: The above references an opinion and is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.**
