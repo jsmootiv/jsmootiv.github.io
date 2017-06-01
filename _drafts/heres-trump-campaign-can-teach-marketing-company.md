@@ -35,15 +35,15 @@ Trump follows this by touching on hot topic issues with polarizing ideas and lan
 
 Here are a few examples
 
-## Anger
+### Anger
 
 > When Mexico sends its people, they're not sending their bestThey're sending people that have lots of problems. They're bringing drugs. They're bringing crime. They're rapists.
 
-## Fear
+### Fear
 
 > It's going to get worse and worse, you're going to have more world trade centers.
 
-## Greed
+### Greed
 
 > We're going to start winning so much that you're going to get used to winning, instead of getting used to losing we're going to always win again.
 
