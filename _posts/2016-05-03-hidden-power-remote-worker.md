@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remote work isn't just for virtual assistants
-date: 2016-05-03
 image: /assets/images/home_office_man_900x400-1469206894903.png
 tags:
   - assistants

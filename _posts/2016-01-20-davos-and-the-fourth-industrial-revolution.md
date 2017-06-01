@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Davos, The Fourth Industrial Revolution, And The Future Of Work
-date: 2016-1-20 19:45:42
+title: Davos, the fourth industrial revolution, and the future of work
 image: /assets/images/102423894_davos2015_lf_lead_image_1910x1000_768x402-1469216783778.jpg
 tags:
   - Data

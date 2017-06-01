@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 5 ways to use a virtual assistant service
-date: 2016-07-24 04:58:13
 image: /assets/images/working-1469823354239.png
 excerpt: Here are a five things you can delegate to your new virtual assistant that will make you more productive.
 tags:

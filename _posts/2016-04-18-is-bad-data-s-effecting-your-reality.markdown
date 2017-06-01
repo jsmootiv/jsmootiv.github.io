@@ -1,7 +1,6 @@
 ---
 layout: external
-title: "Is Bad Data’s Effecting Your Reality?"
-date: 2016-04-18
+title: "Is bad data’s effecting your reality?"
 external_url: https://medium.com/the-mission/is-bad-data-s-effecting-your-reality-949769642dad
 sitemap: false
 ---

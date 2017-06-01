@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Turns out that I’m wealthy
-date: 2016-05-09
 excerpt: The random story of how walking my dog and hanging with my daughter made me wealthy.
 tags:
   - life

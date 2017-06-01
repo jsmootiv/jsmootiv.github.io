@@ -2,7 +2,6 @@
 layout: post
 title: How you are wasting $480 A week by not delegating
 excerpt: When I was sixteen my friend David told me a story about Bill Gates and opportunity cost that changed everything.
-date: 2016-07-22 20:54:01
 image: /assets/images/bill_gates_jpg-1469221060482.jpg
 ---
 

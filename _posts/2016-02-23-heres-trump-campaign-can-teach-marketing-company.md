@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What the trump campaign can teach you about marketing your company
-date: 2016-2-23
 image: /assets/images/Trump_Campaign_Image_768x384-1469213934253.jpg
 image_alt: The trump
 tags:
