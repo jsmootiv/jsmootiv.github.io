@@ -1,8 +1,9 @@
 ---
 layout: post
 title: My thoughts on cryptocurrency investing
-image: /assets/images/gordon-gekko_desk.jpg
+image: /assets/images/gordon-gekko_desk.png
 excerpt: Here is what you should think about before investing in cryptocurrencies
+image_alt: Blue horseshoe loves cryptocurrencies
 permalink: /what-you-need-to-know-to-get-started-in-cryptocurrencies/
 tags:
   - bitcoin
@@ -11,7 +12,7 @@ tags:
   - resources
 ---
 
-Over the past couple of months, I've had a few people reach out to me to ask about my thoughts on the "fill in the blank" ICO or "investing in Bitcoin". The frequency of these requests has gone up, so there are probably a bunch of others interested in the space. I wrote this so that anyone else who cares about what I think has a reference.
+Over the past couple of months, I've had a few people reach out to me to ask about my thoughts on the "fill in the blank" Initial Coin Offering (ICO) or "investing in Bitcoin". The frequency of these requests has gone up, so there are probably a bunch of others interested in the space. I wrote this so that anyone else who cares about what I think has a reference.
 
 First a quick little background on me. I've been following cryptocurrencies since 2010. I tried to buy Bitcoin back in 2011 but it was too difficult at the time --and I was broke. I started trading in 2013 and most recently I've been doing some contract software engineering work in the space. A friend and I also have built a lightweight algorithmic trading system that is currently in production.
 
@@ -45,7 +46,7 @@ I've had a few people reach out to me about ICOs that I've never heard of. Prett
 
 Once you start to get the hang of things you can set up an [SFOX](https://www.sfox.com) account and try to execute some arbitrages or buy some altcoins on [Poloniex](https://poloniex.com).
 
-Remember that you have a 47.4% chance at doubling your money on a roulette table. So if you are really looking for money get on a plane and go to Vegas. Don't put all of your money in on something like [Titcoin](https://en.wikipedia.org/wiki/Titcoin) where the odds of losing are unknown yet you have a similar "roulette-table" style payout.
+Remember that you have a 47.4% chance at doubling your money on a roulette-table. So if you are really looking for quick money get on a plane and go to Vegas. Don't put all of your money in on something like [Titcoin](https://en.wikipedia.org/wiki/Titcoin) where the odds of losing are unknown yet you have a similar "roulette-table" style payout.
 
 ## Don't invest more than you would be willing to lose.
 Cryptocurrencies are still very experimental so much of the current growth is in anticipation of future usage. Right now you can only use [Bitcoin in a few places](https://support.coinbase.com/customer/portal/articles/1834716-where-can-i-spend-bitcoins-) and transactions take 30 minutes. There are just a few of the issues driven by the underlying technology that prevent broader adoption. Fortunately, the technology was built so that these things can be resolved if the people that build the technology and run the network agree. However, the miners (network nodes) and the developers (technology builders) are at each other's throats right now. If the factions can't agree and improve the technology it will inhibit the usability of Bitcoin long term --and thus the price.
