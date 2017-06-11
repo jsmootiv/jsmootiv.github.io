@@ -1,6 +1,18 @@
+<script src="{{ site.baseurl }}/js/jquery-3.2.1.min.js"></script>
+
 {% if jekyll.environment == 'production' %}
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTFGJTD"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 {% endif %}
+
+<script src="{{ site.baseurl }}/js/jquery.scrolldepth.min.js"></script>
+<script>
+jQuery(function() {
+  jQuery.scrollDepth();
+});
+</script>
+
+<script src="{{ site.baseurl }}/js/riveted.min.js"></script>
+<script>riveted.init();</script>
