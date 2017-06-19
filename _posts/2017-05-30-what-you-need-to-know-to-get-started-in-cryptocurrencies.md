@@ -53,7 +53,7 @@ Cryptocurrencies are still very experimental so much of the current growth is in
 
 Also, we don't know how regulation will affect the market. Decentralized currencies may sound like a good thing for libertarians but it's a real threat to the current centralized financial system. There is a non-zero chance that governments will come in and make owning, or transacting, cryptocurrency illegal --this happened in Ecuador.
 
-So any cryptocurrency you buy may be worthless this time next year. So you should think about this space the same way you think about going to Vegas. Only take what you can afford to lose.
+All of this means that any cryptocurrency you buy may be worthless this time next year. So you should think about this space the same way you think about going to Vegas and only put in what you can afford to lose.
 
 ## Crypto gives "regular" investor access to asymmetry.
 The thing that people always tend to forget about investing is that you are compensated for risk. Meaning that really risky investments should have very big returns to make up for the potential of loss.
@@ -66,7 +66,7 @@ Cryptocurrencies, however, gives more people access to these types of returns.
 
 For example, if you invested $1000 in Ethereum back in 2016 it would be worth $200,000 in May 2017. In this investment, your losses would have been capped at $1000 where the returns were $199,000 --in a single year!
 
-This means that you don't need to put a lot in to get a good return. A good rule of thumb is to invest a maximum of 5% of your total liquidity. Eg if you have $100k in cash in your bank account, only buy a maximum of $5k worth of crypto. That way if you lose the $5k you can make it back over time, but if the $5k returns 2000% (with its done before in this space) you will have doubled your $100k.
+This means that you don't need to put a lot in to get a good return. A good rule of thumb is to invest a maximum of 5% of your total liquidity. Eg if you have $100k in cash in your bank account, only buy a maximum of $5k worth of crypto. That way if you lose the $5k you can make it back over time, but if the $5k returns 2000% (which has happened in crypto) you will have doubled your $100k.
 
 ## Getting hacked and losing your money is a thing.
 Much like cash, blockchain transitions are permanent. There are no fraud departments to call if someone steals your crypto tokens. This means that you need to start to get serious about internet security if you are going to be in this space.
