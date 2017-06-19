@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Use FancyHands to setup supermarket cards
+tags:
+  - vascript
 ---
 
-A few years ago, I started using an affordable virtual assistant service called [FancyHands](http://fhands.com/X0PzeM8) and absolutely fell in love. 
+A few years ago, I started using an affordable virtual assistant service called [FancyHands](http://fhands.com/X0PzeM8) and absolutely fell in love.
 
 At the time the quality was phenomenal. I had FancyHands compile reports, book meetings, make calls, etc.
 
@@ -17,7 +19,7 @@ So far I've sent over 1000 requests to FancyHands and saved 4 days of total time
 
 I've decided to share what I've learned.
 
-Under the tag "vascripts" I'm going to share with you some of these 1000 requests so that you too can save some of this time. These are "scripts" much like computer scripts, meaning that you can just copy, paste, and send. Tweak them if needed, send them to your friends.
+Under the tag "vascript" I'm going to share with you some of these 1000 requests so that you too can save some of this time. These are "scripts" much like computer scripts, meaning that you can just copy, paste, and send. Tweak them if needed, send them to your friends.
 
 Here is the first one and it's designed to save you the pain of carrying around those little supermarket membership cards.
 
