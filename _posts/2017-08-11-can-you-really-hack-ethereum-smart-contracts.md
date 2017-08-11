@@ -4,6 +4,7 @@ title: Can you really hack Ethereum smart contracts?
 image: /assets/images/gavel.png
 image_alt: The blockchain does'nt neeed a judge
 excerpt: You can't "hack" an Ethereum smart contract. In fact, this incident disproves the viability of Ethereum in general.
+permalink: /can-you-really-hack-ethereum-smart-contracts/
 tags:
   - etheruem
   - cryptocurrency
