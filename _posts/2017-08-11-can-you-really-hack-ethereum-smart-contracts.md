@@ -6,7 +6,7 @@ image_alt: The blockchain does'nt neeed a judge
 excerpt: You can't "hack" an Ethereum smart contract. In fact, this incident disproves the viability of Ethereum in general.
 permalink: /can-you-really-hack-ethereum-smart-contracts/
 tags:
-  - etheruem
+  - ethereum
   - cryptocurrency
 --- 
 
@@ -38,7 +38,7 @@ If you give your money to a bank, and they keep it, we don't call that a hack.
 
 Believe it or not, this happens all of the time. 
 
-When you do something like send a wire from your bank account, the bank ~~keeps~~ charges you a fee. If the bank charges you more then they are supposed to you would need to convince a judge that the bank violated the terms of the agreement that you had setup with the bank. If the judge agrees with you the judge forces the bank to suffer consequences.
+When you do something like send a wire from your bank account, the bank ~~keeps~~ charges you a fee. If the bank charges you more than they are supposed to you would need to convince a judge that the bank violated the terms of the agreement that you had setup with the bank. If the judge agrees with you the judge forces the bank to suffer consequences.
 
 The whole idea behind the blockchain is to remove the need to trust a judge or any other singular 3rd party to maintain the history of transactions or resolve disputes. This is done via the consensus process I mentioned above. 
 
@@ -78,4 +78,4 @@ Especially if you are a blockchain company.
 
 So there you have it, a hack wasn't a hack. It's just an execution of a contract with a bug. To argue about the intent of the contract would need someone to decide on what the correct state should be which negates the whole purpose of a smart contract to begin with.
 
-Since the decentralized consensus process is really the only thing that is valuable about the blockchain the above means that smart contracts, on chain, are useless.
+Since the decentralized consensus process is really the only thing that is valuable about the blockchain, the above means that smart contracts, on chain, are useless.
