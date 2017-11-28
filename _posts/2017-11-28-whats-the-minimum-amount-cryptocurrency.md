@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What's the minimum amount I can convert into cryptocurrency?
-excerpt: "If you are interested in buying cryptocurrency but think “there is no way I can afford bitcoin at $10,000 USD” don’t worry you can still get started."
+image: /assets/images/change.png
+image_alt: Satoshi is like Bitcoin's change
+excerpt: "If you are interested in buying cryptocurrency but think 'there is no way I can afford bitcoin at $10,000 USD' don’t worry you can still get started."
 tags:
   - cryptocurrency
   - bitcoin
