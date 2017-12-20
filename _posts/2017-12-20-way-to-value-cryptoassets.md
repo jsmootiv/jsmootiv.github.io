@@ -60,7 +60,7 @@ Put in plain terms since minimum wage in the US labor market is $7.35, $1 USD is
 
 So really you could say that $1 USD is "worth" 2 apples. Everyone believes this, including the apple picker who may grow his own tree, pick 2,000 apples, sell them for $2,000 USD and hire a web designer to design a website for his Apple picking business. The designer would accept the USD because he knows that someone else will also accept the USD because they will want to buy a portion of the next batch of apples that comes out.
 
-Inflation means that a year from now, you will only be able to buy 1/6 of an hour with the same dollar --thus meaning you get less apples.
+Inflation means that a year from now, you will only be able to buy 1/8 of an hour with the same dollar --thus meaning you get less apples.
 
 Why this happens is really out of the scope of this blog post, but my point is that the value of something doesn’t necessarily mean it’s dollar value.
 
@@ -124,5 +124,7 @@ The subsidy value can be thought of as the delta between your energy and the cou
 So unless you have access to cheap energy, it’s probably a better deal than you think.
 
 **Disclaimer: The above references an opinion and is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.**
+
+***EDIT:** under subheading "Discounted cash flow" changed 1/6 to 1/8*
 
 
