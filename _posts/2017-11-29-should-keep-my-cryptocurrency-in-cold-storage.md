@@ -92,4 +92,4 @@ Drawbacks:
 
 If there are any questions ask them in the comments below.
 
- Btw if you find this encryption stuff interesting and want to learn more, there is a great (and very accessible) book called [“The Code Book” written by Simon Singh](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?ie=UTF8&qid=1511925030&sr=8-1&keywords=the+code+book) that I strongly recommend you read.
+*Btw if you find this encryption stuff interesting and want to learn more, there is a great (and very accessible) book called [“The Code Book” written by Simon Singh](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?ie=UTF8&qid=1511925030&sr=8-1&keywords=the+code+book) that I strongly recommend you read.*

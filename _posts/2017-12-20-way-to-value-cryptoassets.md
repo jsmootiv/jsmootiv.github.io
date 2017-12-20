@@ -123,3 +123,6 @@ The subsidy value can be thought of as the delta between your energy and the cou
 
 So unless you have access to cheap energy, it’s probably a better deal than you think.
 
+**Disclaimer: The above references an opinion and is for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.**
+
+

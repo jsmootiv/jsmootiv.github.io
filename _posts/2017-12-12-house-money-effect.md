@@ -1,12 +1,14 @@
 ---
 layout: post
-title: The House Money Effect
+title: The house money effect
 image: /assets/images/roulette-wheel.jpg
 image_alt: 
 excerpt: "But the game is to maximize returns and MINIMIZE exposure to risk. And to do this you need to fight your natural tendencies."
 permalink: /house-money-effect/
 tags:
   - cryptocurrency
+  - trading
+  - psychology
 --- 
 
 If you are in crypto right now congratulations because you’ve made some returns. You may have even doubled your money and thinking about taking out the amount you initially put in and “playing with the house money”. 
