@@ -8,7 +8,7 @@ tags:
   - trading
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i7WvLq0JTB0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/i7WvLq0JTB0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Lately I’ve been getting calls/emails/etc from people asking about the various altcoins.
 
