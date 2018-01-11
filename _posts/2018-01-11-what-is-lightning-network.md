@@ -23,7 +23,7 @@ Because of the way the protocol was designed, there is only so many transactions
 
 But what if something can be built on top of Bitcoin that will allow for a faster throughput and lower fees?
 
-That's the big idea behind the "layer 2" system called the [Lighning Network](https://lightning.network/),
+That's the big idea behind the "layer 2" system called the [Lightning Network](https://lightning.network/) that is is currently being tested on the Bitcoin testnet.
 
 Nothing like Lightning Network exists right now so I always tell people the best comparable user experience is Venmo.
 
