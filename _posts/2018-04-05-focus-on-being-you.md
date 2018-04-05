@@ -4,7 +4,7 @@ title: Focus on being you
 excerpt: "Focus on being you. Find your strengths and make sure to reinforce those things."
 permalink: /focus-on-being-you/
 tags:
-  - thoughts
+  - note to self
 ---
 
 When I was younger I had a tendency to try to fit myself into situations that weren't necessarily best for me. I think a lot of people do this. We try to modify ourselves to fit into a job or a group of people we want to be associated with.
