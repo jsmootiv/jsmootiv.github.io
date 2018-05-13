@@ -1,0 +1,31 @@
+--- 
+layout: default 
+title: The Prior Transformation
+permalink: /podcast/
+---
+
+<div class="posts">
+    <h1 class="post-title">
+        The Prior Transformation Podcast
+    </h1>
+    <p>
+        Welcome to The Prior Transformation, where I ramble for a few minutes about technology or business. Sometimes I also interview smart people.
+    </p>
+    <h3>
+        Episodes
+    </h3>
+    <ul class="post-list">
+         {% for post in site.posts %}
+             {% if post.tags contains "podcast" %}
+                <li class="list-item">
+                    <small>
+                        {{ post.date | date_to_string }} ::
+                    </small>
+                    <a href="{{ post.url |  prepend: site.baseurl }}">
+                        {{ post.title }}
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

@@ -22,25 +22,8 @@ layout: default
   {% include newsletter-signup.html %}
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-        {% if post.external_url %}
-          <a href="{{ post.external_url }}">
-        {% else %}
-          <a href="{{ post.url |  prepend: site.baseurl }}">
-        {% endif %}
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+{% include related.html %}
+
 {% if jekyll.environment == "production" and page.hide_comments != true %}
   {% include comments.html %}
 {% endif %}

@@ -1,11 +1,12 @@
 ---
-layout: {{ layout }}
+layout: podcast
 title: "{{ title }}"
 image: {{ image }}
 image_alt: {{ img_alt }}
 excerpt: "{{ excerpt }}"
 permalink: {{ permalink }}
+player_url: {{ player_url }}
 tags:
+  - podcast
   - {{ tag }}
 ---
-
