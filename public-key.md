@@ -6,6 +6,7 @@ title: My PGP Public Key
 
 If you don't know what this is, ask me sometime.
 
+`B466 D23E 6E2E 22DD F3E2  7D6F 9886 0987 5701 C888`
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
