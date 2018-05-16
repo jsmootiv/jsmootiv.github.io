@@ -7,7 +7,7 @@ tags:
   - bitcoin cash
   - blockchain
 ---
-Here is a quick little note for those who may be running the Bitcoin ABC upgraded node 0.7 for the hard fork.
+Here is a quick little note for those who may be upgrading [Bitcoin ABC to 0.17 for the hard fork](https://www.bitcoinabc.org/).
 
 About a week ago we built a container to comply with the Bitcoin Cash hardfork but there was an issue deploying.
 
