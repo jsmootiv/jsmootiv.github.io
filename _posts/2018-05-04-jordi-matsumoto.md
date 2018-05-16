@@ -2,7 +2,7 @@
 layout: podcast
 title: "Jordi Matsumoto The Wizard Of Digital Production"
 excerpt: "What its like shooting video for Fortune 500's"
-permalink: /jordi-matsumoto-wizard-digital-production/
+permalink: /podcast/jordi-matsumoto-wizard-digital-production/
 player_url: "//html5-player.libsyn.com/embed/episode/id/6553859/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/"
 tags:
   - podcast

@@ -2,7 +2,7 @@
 layout: podcast
 title: "Robert Kiraz On Applying Lean Methodologies"
 excerpt: "Ever wonder if the lean startup actually works? Robert Kiraz shows that it does."
-permalink: /robert-kiraz-applying-lean-methodologies/
+permalink: /podcast/robert-kiraz-applying-lean-methodologies/
 player_url: "//html5-player.libsyn.com/embed/episode/id/6570758/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/"
 tags:
   - podcast
