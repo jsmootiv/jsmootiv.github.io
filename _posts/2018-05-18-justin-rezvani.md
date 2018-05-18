@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Justin Rezvani: Entrepreneur turned biohacker"
-excerpt: "Justin started, ran, and sold one of the leading influencer marketing companies 'theAmplify'."
+excerpt: "Justin started, ran, and sold one of the leading influencer marketing companies 'theAmplify'.What made him successful? Listen and find out."
 permalink: /podcast/justin-rezvani-entrepreneur-turned-biohacker/
 player_url: "//html5-player.libsyn.com/embed/episode/id/6597488/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/"
 tags:
