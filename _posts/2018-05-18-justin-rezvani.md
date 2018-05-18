@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Justin Rezvani: Entrepreneur turned biohacker"
-excerpt: "Think that AI is going to take over the world?"
+excerpt: "Justin started, ran, and sold one of the leading influencer marketing companies 'theAmplify'."
 permalink: /podcast/justin-rezvani-entrepreneur-turned-biohacker/
 player_url: "//html5-player.libsyn.com/embed/episode/id/6597488/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/"
 tags:
@@ -14,13 +14,7 @@ Today in the hotseat is the one and only Justin Rezvani. Justin started, ran, an
 
 Listen and find out.
 
----
-
-Today in the hotseat is the one and only Justin Rezvani. Justin started, ran, and sold one of the leading influencer marketing companies "theAmplify". What made him successful?
-
-Listen and find out.
-
----
+----
 
 Justin Rezvani is a first generation American entrepreneur, investor and Forbes’ 30 Under 30.
 
