@@ -1,4 +1,5 @@
 ---
+layout: podcast
 title: "The Oracle Problem"
 excerpt: "Listen to find out the one big issue that is not addressed by 99% of blockchain projects."
 permalink: /podcast/the-oracle-problem/
