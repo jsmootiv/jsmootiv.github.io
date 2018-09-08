@@ -10,7 +10,7 @@ In 2011, I built what is now known as the [Bishop Video Platform](http://www.pk4
 
 More recently, I founded the product studio [Octavius Labs](https://www.octaviuslabs.com) to help companies grow by rethinking their product and technology strategy.
 
-In my spare time these days I like to pilot airplanes, [read](https://www.goodreads.com/review/list/30750463-jimi-smoot?utf8=%E2%9C%93&utf8=%E2%9C%93&shelf=read&per_page=infinite), and hang around Los Angeles with my wife, sixteen-month-old daughter, and doggie son [Alejandro](http://www.instagram.com/jefecubano).
+In my spare time these days I like to pilot airplanes, [read](https://www.goodreads.com/review/list/30750463-jimi-smoot?utf8=%E2%9C%93&utf8=%E2%9C%93&shelf=read&per_page=infinite), and hang around Los Angeles with my wife, kids, and doggie son [Alejandro](http://www.instagram.com/jefecubano).
 
 Little known fact: During my time studying Marketing and Communications at the University of Nevada Las Vegas I worked as an Audio Engineer and Disc Jockey to pay the bills. I also somehow convinced the music school to give me a scholarship for Jazz Trombone and Marching Band.
 
