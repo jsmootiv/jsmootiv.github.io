@@ -13,9 +13,7 @@ layout: default
     {% if page.subtitle %}
     <h3 class="post-title">{{ page.subtitle }}</h3>
     {% endif %}
-    <span class="post-date">{{ page.date | date_to_string }} |
-        <small>{% include reading-time.html %} reading time</small>
-    </span>
+    <span class="post-date">{{ page.date | date_to_string }}</span>
 
     <iframe style="border: none" src="{{page.player_url}}" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
