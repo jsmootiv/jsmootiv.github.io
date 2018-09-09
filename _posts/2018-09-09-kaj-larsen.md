@@ -16,7 +16,7 @@ In this episode of The Prior Transformation I sit down with Kaj Larsen who is a 
 
 I've been fascinated with SEAL training for years so this conversation was a bit of a treat. Among many other things, we talk about leading men in combat, building team cohesion, and how some of the ideas from SEAL training can be applied to people in leadership positions outside of the military.
 
-Kaj's bio:
+### Kaj's bio:
 
 Kaj Larsen was born in Santa Cruz, California, and graduated from the University of California at Santa Cruz with a degree in Political Science.  At Harvard University he received his Masters degree in Public Policy from the John F. Kennedy School of Government. At Harvard, Kaj was awarded a fellowship from the Shorenstein Center for Press, Politics, and Public Policy. He was also a joint fellow at Tufts Jebsen Center for Counter-Terrorism studies. His focus includes international security policy, media politics, and political affairs.
 
