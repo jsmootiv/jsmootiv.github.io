@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "Leading Teams Through Uncertainty"
+title: "Leading Teams"
 subtitle: A Chat With Kaj Larsen
 excerpt: "Today I sit down with former US Navy SEAL Kaj Larsen. We talk about leading men in combat, building team cohesion, and other ideas that can be applied by anyone in a leadership position."
 permalink: /podcast/kaj-larsen-leading-teams/
