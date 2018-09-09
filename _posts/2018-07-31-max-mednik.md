@@ -1,6 +1,7 @@
 ---
 layout: podcast
-title: "Max Mednik: How Investors Think About Risk"
+title: "How Investors Think About Risk"
+subtitle: "A Chat With Max Mednik"
 excerpt: "Investor and hedge fund manager Max Mednik talks with me about how he thinks about risk."
 permalink: /podcast/max-mednik-how-investors-risk/
 player_url: "//html5-player.libsyn.com/embed/episode/id/6857396/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/000000/"

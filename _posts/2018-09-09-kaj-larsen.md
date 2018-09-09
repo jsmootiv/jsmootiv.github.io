@@ -1,6 +1,7 @@
 ---
 layout: podcast
 title: "Leading Teams Through Uncertainty"
+subtitle: A Chat With Kaj Larsen
 excerpt: "We talk about leading men in combat, building team cohesion, and how some of the ideas from SEAL training can be applied to people in leadership positions outside of the military."
 permalink: /podcast/kaj-larsen-leading-teams/
 image: /assets/images/kaj-larsen-headshot.png
