@@ -12,7 +12,7 @@ tags:
   - leadership
 ---
 
-Today I sit down with Kaj Larsen. To say that Kaj is a former US Navy SEAL is just the tip of the iceberg. He is also a journalist who's work you've probably seen on VICE and CNN. He went to Harvard. He worked with Sorkin on "Newsroom" --one of my favorite shows. The depth of his experience is significant —just take a look at his bio below.
+Today I sit down with Kaj Larsen. To say that Kaj is a former US Navy SEAL is just the tip of the iceberg. He is also a journalist who's work you've probably seen on VICE and CNN. He went to Harvard. He worked with Sorkin on "Newsroom" --one of my favorite shows. The breadth and depth of his experience is fascinating —just take a look at his bio below.
 
 In this episode, however, we talk about his SEAL days. I've been fascinated with SEAL training for years so this conversation was an absolute blast. Among many other things, we talk about leading men in combat, building team cohesion, and how some of the ideas from SEAL training can be applied to people in leadership positions outside of the military.
 
