@@ -30,8 +30,8 @@ Kaj is a two time national champion open-water swimmer, and placed third in the 
 
 Kaj used his pay from the service to help launch The Mission Continues, and served on the Board of Directors for five years.  Kaj also serves on the Boards of Advisors to the Veteran service organization Team Rubicon Global. He has deployed three times in support of Team Rubicon to render Humanitarian assistance in Pakistan, the Philippines, and the US. 
 
-Follow Kaj on Instagram: https://www.instagram.com/kajlarsen
-Follow Kaj on Twitter: https://twitter.com/kajlarsen
+- Follow Kaj on Instagram: [https://www.instagram.com/kajlarsen](https://www.instagram.com/kajlarsen)
+- Follow Kaj on Twitter: [https://twitter.com/kajlarsen](https://twitter.com/kajlarsen)
 
 Music: www.bensound.com
 
