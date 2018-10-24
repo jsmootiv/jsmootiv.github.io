@@ -14,7 +14,7 @@ tags:
   - blockchain
 ---
 
-Taylor is the founder & CEO of MyCrypto, one of the leading blockchain interfaces. Previously, she founded MyEtherWallet. She loves the fast-moving, iterative adventure that encompasses the blockchain space & looks forward to ushering in the decentralized future with easy-to-use products. Since starting as a simple paper-wallet generator, Taylor has expanded the reach and feature-set of MyCrypto, built a team of talented & empathetic people, and welcomes new challenges each day.
+Taylor Monahan is the founder & CEO of MyCrypto, one of the leading blockchain interfaces. Previously, she founded MyEtherWallet. She loves the fast-moving, iterative adventure that encompasses the blockchain space & looks forward to ushering in the decentralized future with easy-to-use products. Since starting as a simple paper-wallet generator, Taylor has expanded the reach and feature-set of MyCrypto, built a team of talented & empathetic people, and welcomes new challenges each day.
 
 During this conversation we talk a bit about the past/present/future of crypto as well as decision making under uncertainty and what its like to run a company on the front lines of a tech revolution.
 
