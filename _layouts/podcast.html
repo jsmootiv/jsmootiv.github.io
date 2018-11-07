@@ -14,9 +14,11 @@ layout: default
     <h3 class="post-title">{{ page.subtitle }}</h3>
     {% endif %}
     <span class="post-date">{{ page.date | date_to_string }}</span>
-
+    {% if page.libsyn_id %}
+    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ page.libsyn_id }}/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/000000/ height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    {% else %}
     <iframe style="border: none" src="{{page.player_url}}" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
+    {% endif %}     
     <ul>
         <li>
             <a href="https://itunes.apple.com/us/podcast/the-prior-transformation/id1376413788?ls=1">
