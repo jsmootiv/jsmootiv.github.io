@@ -26,6 +26,6 @@ Marcus is currently CMO at iTrust Capital and Head of Science at Halcyon Biotech
 We talk about what consolidation may look like in crypto, tribalism in the space, and we ask one big question: Can the world truly be decentralized?
 
 - [Checkout iTrust Capital](https://itrustcapital.com/)
-- [Checkout Halcyon Biotechnologies](https://www.halcyon.bio/)\
+- [Checkout Halcyon Biotechnologies](https://www.halcyon.bio/)
 
 Music: www.bensound.com
