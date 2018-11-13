@@ -23,8 +23,9 @@ While in Germany, Dr. Weller also studied Cognitive Neuroscience at the Universi
 
 Marcus is currently CMO at iTrust Capital and Head of Science at Halcyon Biotechnologies Inc. 
 
-We talk about what consolidation may look like in crypto, tribalism in the space, and we ask one big question: Can the world truly be decentralized.
+We talk about what consolidation may look like in crypto, tribalism in the space, and we ask one big question: Can the world truly be decentralized?
 
-- [Checkout Halcyon Biotechnologies](https://www.halcyon.bio/)
+- [Checkout iTrust Capital](https://itrustcapital.com/)
+- [Checkout Halcyon Biotechnologies](https://www.halcyon.bio/)\
 
 Music: www.bensound.com
