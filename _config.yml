@@ -7,7 +7,7 @@ email: jimi {at} jsfour {dot} com
 description: > # this means to ignore newlines until "baseurl:"
   Entrepreneur / Software Engineer
 baseurl:
-url: "http://www.jsfour.com" # the base hostname & protocol for your site
+url: "https://www.jsfour.com" # the base hostname & protocol for your site
 # twitterUrl: "http://www.twitter.com/jsfour"
 # githubUrl:  "http://www.github.com/jsmootiv"
 # mediumUrl: "http://www.medium.com/@jsfour"

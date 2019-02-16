@@ -68,7 +68,7 @@ Why this happens is really out of the scope of this blog post, but my point is t
 
 One way of valuing an asset like Bitcoin by looking a the amount of productivity you can purchase with it. This is exactly like my apple example above.
 
-I must admit that when I first started writing this post, I thought I would be able to easily find people who: a) have their hourly rate listed in Bitcoin, b) are willing to be paid in Bitcoin. I looked for a bit and there are quite a few of places (like https://www.reddit.com/r/Jobs4Bitcoins/ or https://www.xbtfreelancer.com) where people are willing to be paid in Bitcoin, but the fees are listed in USD, which is very interesting. [This is likely due to crypto’s insane volatility which I’ve talked about before.](http://www.jsfour.com/arbitraging-bitcoin-with-usdt)
+I must admit that when I first started writing this post, I thought I would be able to easily find people who: a) have their hourly rate listed in Bitcoin, b) are willing to be paid in Bitcoin. I looked for a bit and there are quite a few of places (like https://www.reddit.com/r/Jobs4Bitcoins/ or https://www.xbtfreelancer.com) where people are willing to be paid in Bitcoin, but the fees are listed in USD, which is very interesting. [This is likely due to crypto’s insane volatility which I’ve talked about before.]({% post_url 2017-05-03-arbitraging-usdt %})
 
 So, for now, valuing based on productivity turns out to be a dead end.
 

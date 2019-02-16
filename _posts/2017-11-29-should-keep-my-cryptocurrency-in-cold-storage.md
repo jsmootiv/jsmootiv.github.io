@@ -35,7 +35,7 @@ Well thanks to some really fancy math, it's not.
 
 I have a fairly vague understanding of the math so I won't attempt to explain it but the method of encryption is known as “asymmetrical cryptography”. Although the term is a bit of a mouthful, the intuition is very simple. We create a passphrase (in the crypto world this is called a key) which has 2 parts. One part is considered “public” and the other part of the key is “private”.
 
-The public key is a “one way”, which means nobody but I would be able to read a message encrypted with the key —not even the sender. Because of the public key’s “one way” nature, it can be publicly shared with everyone. For instance, you can find [my PGP public key here.](http://www.jsfour.com/public-key/)
+The public key is a “one way”, which means nobody but I would be able to read a message encrypted with the key —not even the sender. Because of the public key’s “one way” nature, it can be publicly shared with everyone. For instance, you can find [my PGP public key here.]({% link public-key.md %})
 
 To decrypt a message encrypted with my public key, I use my private key which is kept secret.
 
