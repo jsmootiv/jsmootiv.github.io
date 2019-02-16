@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-![Jimi Smoot]({{ site.url }}/assets/images/about_photo.jpg)
+![Jimi Smoot](/assets/images/about_photo.jpg)
 # About Me
 Hi my name is Jimi. I fell in love with building software when I was 14 years old and am fortunate that I am able to do the thing that I love every day.
 

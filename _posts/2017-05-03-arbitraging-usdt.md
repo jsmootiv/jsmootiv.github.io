@@ -15,7 +15,7 @@ tags:
 
 On paper setting up an arbitrage using BTC and USDT seems like a good idea. But is it really?
 
-The other day I wrote about [why there was a price difference between USDT and USD]({{ site.url }}{% post_url 2017-04-22-untethered %}) and how you could take advantage of this market inefficiency to make a 7% profit.
+The other day I wrote about [why there was a price difference between USDT and USD]({% post_url 2017-04-22-untethered %}) and how you could take advantage of this market inefficiency to make a 7% profit.
 
 Today we will explore this idea some more.
 
