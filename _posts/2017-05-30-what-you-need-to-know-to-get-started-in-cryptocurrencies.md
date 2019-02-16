@@ -29,7 +29,7 @@ Seems like there is some room for growth, let's dig deeper.
 
 There are 7 billion people in the world, but currently [there are just over 15 million Bitcoin wallets](https://blockchain.info/charts/my-wallet-n-users). That means that there could only be wallets for 0.2% people in the world --though most of the wallets are probably held by a smaller group of people.
 
-![Total Bitcoin wallets]({{ "/assets/images/bitcoin_wallet_users_may_17.png" | absolute_url }})
+![Total Bitcoin wallets]({{ "/assets/images/bitcoin_wallet_users_may_17.png" }})
 
 So cryptocurrency as a category has a lot of room to grow. The question you should be asking yourself is "do I think that this can be a big thing".
 

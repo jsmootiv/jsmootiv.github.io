@@ -49,6 +49,6 @@ I plan to write some more on Lightning later but first I'm going to work on gett
 
 I'll be sure to report back on how that goes. In the meantime here is a great infographic that explains everything by [Billycoin](https://www.reddit.com/user/billycoin) on Reddit.
 
-![How LN Works, infographic.]({{ "/assets/images/ln-infographic.png" | absolute_url }}){:.center}
+![How LN Works, infographic.]({{ "/assets/images/ln-infographic.png" }}){:.center}
 
 

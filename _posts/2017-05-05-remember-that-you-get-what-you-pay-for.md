@@ -27,7 +27,7 @@ So in this case its just another case of "give the people what they want".
 
 Don't believe me? Let's look at the data.
 
-![Keywords Analysis]({{ "/assets/images/airline_search_data.png" | absolute_url }}){:.center}
+![Keywords Analysis]({{ "/assets/images/airline_search_data.png" }}){:.center}
 
 I pulled this data directly from [Google's Keyword planner](https://adwords.google.com/ko/KeywordPlanner). It shows Google's monthly search volume estimate for phrases like "cheap flight" and "best airline".
 

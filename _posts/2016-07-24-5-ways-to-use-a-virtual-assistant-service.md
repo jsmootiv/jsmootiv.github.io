@@ -19,7 +19,7 @@ To help jumpstart your thinking here are a five things you can delegate to your 
 
 While you are out doing sales calls instruct your virtual assistant draft followup emails and save them in your email's "drafts" folder for you to review. Then when you sit down all you need to do is scan the emails and send them out.
 
-![Virtual assistants help with followup]({{ "/assets/images/sales_meeting-1469822657337.png" | absolute_url }})
+![Virtual assistants help with followup]({{ "/assets/images/sales_meeting-1469822657337.png" }})
 
 
 ## Manage personal logistics

@@ -109,7 +109,7 @@ Assuming that the large miners use something similar to the S9s in production, t
 Sometimes the Bitcoin price skyrockets which makes it more profitable for more miners to enter the space in regions with lower subsidies. The bitcoin algorithm responds by adjusting the difficulty thus making it harder to mine Bitcoin. You can see this dynamic play out by looking at a price / difficulty chart.
 
 
-![Bitcoin price and difficulty]({{ "/assets/images/price-v-diff.png" | absolute_url }}){:.center}
+![Bitcoin price and difficulty]({{ "/assets/images/price-v-diff.png" }}){:.center}
 
 This is starting to all look like an energy arbitrage.
 
