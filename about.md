@@ -14,6 +14,9 @@ In my spare time these days I like to pilot airplanes, [read](https://www.goodre
 
 Little known fact: During my time studying Marketing and Communications at the University of Nevada Las Vegas I worked as an Audio Engineer and Disc Jockey to pay the bills. I also somehow convinced the music school to give me a scholarship for Jazz Trombone and Marching Band.
 
+## Subscribe
+{% include newsletter-signup.html %}
+
 ## Contact Jimi
 Reach out at: {{ site.email }}
 
