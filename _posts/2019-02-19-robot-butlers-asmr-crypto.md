@@ -12,7 +12,7 @@ tags:
     - asmr
 ---
 
-This week was a bit hectic. I'm back in LA looking at apartments, having meetings, working in person with the SFOX team.
+This week was a bit hectic. I'm back in LA looking at apartments, having meetings, and working in person with the SFOX team.
 
 Coming back in LA is a bit of a shock to be honest. It's mostly the cars. For the last few months I spent most of my time at the house in Truckee and when I did go out there wasnt much traffic in the town of 17000 people. So seeing more cars on the road in LA then the number of people in the town of Truckee is somehow surprising.
 
