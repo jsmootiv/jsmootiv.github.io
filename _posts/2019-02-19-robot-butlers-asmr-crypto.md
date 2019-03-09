@@ -30,7 +30,7 @@ It's fascinating to think about how ASMR videos work...But I have some questions
 - Is this just further atomizing the human experience?
 - What will happen when (not if) someone develops an AI that can play the sounds and optimize them to create a state of euphoria?
 
-All questions I plan to explore in future posts [so make sure you subscribe.]({% link about.md %}#subscribe)
+All questions I plan to explore in future posts [so make sure you subscribe.]({% link newsletter.md %})
 
 ### Robot Butlers
 We've been staying in the Residence Inn by LAX (which I highly recommend) and they have one of those robot butlers that deliver food to your room. Watching my daughter interact with the robot when he (or should I say it) brought some Ben and Jerry's to the room last night was interesting. 

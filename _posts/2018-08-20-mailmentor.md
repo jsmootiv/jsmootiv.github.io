@@ -11,6 +11,6 @@ A few years ago, along with some colleagues, I setout to develop a "sales coach 
 
 Keeping the servers running, however, was costing me about $50 a month and given the traffic levels, I've opted to shut the servers down. Mailmentor.io now directs to this blog post.
 
-I've thought about open sourcing the source code. If this is of interest to you [subscribe]({% link about.md %}#subscribe) to receive notifications of updates in the future.
+I've thought about open sourcing the source code. If this is of interest to you [subscribe]({% link newsletter.md %}) to receive notifications of updates in the future.
 
 Thanks for all of the support.
