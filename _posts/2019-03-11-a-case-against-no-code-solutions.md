@@ -2,7 +2,7 @@
 layout: post
 title: A case against no code solutions
 excerpt: This is the problem with "no code". It assumes that "coding" is the hard part of the process but really thinking through a problem is what needs specialized training and experience.
-permalink: /a-case-against-no-code/
+permalink: /case-against-no-code/
 image: /assets/images/random-code.jpeg
 image_alt: No Code
 tags:
