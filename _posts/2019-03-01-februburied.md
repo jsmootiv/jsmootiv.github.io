@@ -70,9 +70,9 @@ The "Carnival Splendour", for example, cost $672.4 million and can hold 3012 peo
 
 As a lower cost option to cruise ships we could just retrofit semi trucks with sleeping quarters. Trucks could pick people up and drive out to less dense areas at night than head back to the cities in the morning and offload people into urban or public transport.
 
-Trucks cost about $150,000 and have a 80,000 lb towing capacity which is more than enough to outfit a trailer with sleeping pods. If you can put 10 people into each trailer the startup cost would be $15k per person. Something like this could definitely be crowd funded. Driver responsibilities could be shared by the community, and, eventually, be automated. Or maybe the community just hires drivers using [Uber Freight.](https://www.uberfreight.com/)
+Trucks cost about $150,000 and have a 80,000 lb towing capacity which is more than enough to outfit a trailer with sleeping pods. If you can put 10 people into each trailer the startup cost would be $15k per person. Something like this could definitely be crowd funded. Driver responsibilities could be shared by the community, and, eventually, be automated. Or maybe the community just hires drivers using Uber Freight.
 
-Have any ideas on how to increase housing supply? [Drop me a line]({% link about.md %}) and let's talk about it.
+Have any ideas on how to increase housing supply? Drop me a line and let's talk about it.
 
 ### [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
 
