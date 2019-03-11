@@ -27,12 +27,15 @@ I'll explore one facet of this below in the section about LA real estate.
 
 
 ## Discoveries
+
 - [A card game named throw throw burrito raises $1m](https://www.kickstarter.com/projects/elanlee/throw-throw-burrito)
 - [Get a digital boss to help you achieve your life goals](https://bossasaservice.life/)
 - [A friend told me how deadly treewells can be for skiers](https://www.powder.com/stories/the-safe-zone/how-to-prevent-snow-immersion-suffocation/)
 
 ## Interesting reads
+
 ### [High rents create a new class of hidden homeless in Los Angeles](https://www.cbsnews.com/news/los-angeles-hidden-homeless-priced-out-cbsn-originals/?fbclid=IwAR0eUiLHPPARlkM1Gz5UuRKTU3_8tWwexxdXSvO-n9wXhKQJKv8-ajNrshU)
+
 If you wanted proof that we are heading for a techno dystopia look no further than this post. Food, water, and shelter are [the base of Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Megacities like LA are eroding that base by crushing the middle-class to the point of homelessness.
 
 The photo for this post highlights a mom and daughter who are living out of their car. What I found surprising is that the duo had phones.
@@ -56,6 +59,7 @@ We only really have 3 ways of solving the housing problem.
 3. **Increase supply:** Any college Freshman who has taken Economics 101 will tell you, when demand is high and supply is constrained, prices increase. When you increase supply to meet and exceed demand prices decrease. So I think that increasing supply is probably our best option. Regulation, however, makes it hard to build. I've had some crazy ideas to increase supply that may be able to bypass building issues though so lets talk about those.
 
 #### Cruise ships:
+
 We could move people onto cruise ships or barges and have the ship dock at San Pedro every morning. In the evening the ship picks everyone up and go out to sea where it can avoid building restrictions. 
 
 This is probably more cost effective than you think. 
@@ -63,6 +67,7 @@ This is probably more cost effective than you think.
 The "Carnival Splendour", for example, cost $672.4 million and can hold 3012 people. So something like this could be crowd funded to the tune of $223k a person --thats cheaper then a condo on the west side. Running and maintaining a boat like this could be expensive, but if you set it up like a cooperative/commune you could reduce crew and maintenance costs by having everyone pitch in. Or just pay a HOA to maintain things. If anyone knows the cost for keeping a ship like this running, I'm all ears and would love to think about this crazy idea more.
 
 #### Sleeping pods in semi trucks:
+
 As a lower cost option to cruise ships we could just retrofit semi trucks with sleeping quarters. Trucks could pick people up and drive out to less dense areas at night than head back to the cities in the morning and offload people into urban or public transport.
 
 Trucks cost about $150,000 and have a 80,000 lb towing capacity which is more than enough to outfit a trailer [with sleeping pods](https://www.cnn.com/travel/article/tokyo-luxury-capsule-hotels/index.html). If you can put 10 people into each trailer the startup cost would be $15k per person. Something like this could definitely be crowd funded. Driver responsibilities could be shared by the community, and, eventually, be automated. Or maybe the community just hires drivers using [Uber Freight.](https://www.uberfreight.com/)
@@ -70,6 +75,7 @@ Trucks cost about $150,000 and have a 80,000 lb towing capacity which is more th
 Have any ideas on how to increase housing supply? [Drop me a line]({% link about.md %}) and let's talk about it.
 
 ### [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
+
 Imagine if it were your job to sit at a desk all day and look at the worse of the worse content that people post to social media. Well that's someone's job and this amazing piece by Casey Newton does a deep dive into the "secret lives of Facebook moderators in America".
 
 This piece for me was eye opening and had me thinking about the scale of content online and how hard of a problem content moderation must be. Some people think that AI could replace the need for moderators and it could be effective for 99% of the bad content but there. But what about the 1% that it's not effective for? At scale the error rate ends up still producing a lot of content that needs to be manually filtered.
