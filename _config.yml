@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl:
 url: "https://www.jsfour.com" # the base hostname & protocol for your site
 # twitterUrl: "http://www.twitter.com/jsfour"
-# githubUrl:  "http://www.github.com/jsmootiv"
+# githubUrl:  "http://www.github.com/jsfour"
 # mediumUrl: "http://www.medium.com/@jsfour"
 twitter:
   username: jsfour
@@ -17,7 +17,7 @@ twitter:
 medium:
   url: "https://www.medium.com/@jsfour"
 github:
-  url: "https://www.github.com/jsmootiv"
+  url: "https://www.github.com/jsfour"
 linkedin:
   url: "https://www.linkedin.com/in/jsfour"
 permalink: /:title/
