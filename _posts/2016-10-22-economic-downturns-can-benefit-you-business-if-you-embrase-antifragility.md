@@ -3,6 +3,7 @@ layout: post
 title: Economic downturns can benefit you business
 image: /assets/images/broken_glass_00405790_1440x900-1469212284647.jpg
 excerpt: Do you every wonder why some people who have had incredibly difficult and intense life experiences end up being so successful?
+permalink: /economic-downturns-can-benefit-you-business/
 tags:
   - antifragile
   - management

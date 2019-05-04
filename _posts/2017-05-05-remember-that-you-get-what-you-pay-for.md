@@ -4,6 +4,7 @@ title: Remember that you get what you pay for
 image: /assets/images/airport_photo.png
 image_alt: Everything has a cost but that cost isn't always a monetary one.
 excerpt: Everything has a cost but that cost isn't always a monetary one. Unfortunately for travelers, cramped seats, overbooked flights, and lost bags are a few of the many costs "cheap" air travel.
+permalink: /remember-that-you-get-what-you-pay-for/
 tags:
   - markets
   - analysis

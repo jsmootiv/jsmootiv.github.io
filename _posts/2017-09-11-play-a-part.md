@@ -2,6 +2,7 @@
 layout: post
 title: Play a part
 excerpt: "Tomi is a personification of Shakespeares: 'All the world's a stage, And all the men and women merely players.'"
+permalink: /play-a-part/
 tags:
   - marketing
   - politics

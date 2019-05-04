@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use FancyHands to setup supermarket cards
+permalink: /use-fancyHands-to-setup-supermarket-cards/
 tags:
   - vascript
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: No time is a good time
 excerpt: There isn't a perfect time for anything.
+permalink: /no-time-is-a-good-time/
 tags:
   - thoughts
 --- 
