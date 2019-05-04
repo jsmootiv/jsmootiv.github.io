@@ -25,4 +25,4 @@ This is an amazing, but fairly technical, talk so I recommend that you grab a co
 
 For more information on the LA Blockchain Developer community [click here to check out our meetup page](https://www.meetup.com/LA-Blockchain-Developers/) 
 
-Thanks to [Jim Posen](https://twitter.com/jimpo_potamus) for putting together the talk, [SFOX](https://www.sfox.com) for their continued support on these meetups. [Marching Penguin](www.gomarchingpenguin.com) for helping with the video and [CrossCampus](https://www.crosscamp.us) for the space.
+Thanks to [Jim Posen](https://twitter.com/jimpo_potamus) for putting together the talk, [SFOX](https://www.sfox.com) for their continued support on these meetups. [Marching Penguin](http://www.gomarchingpenguin.com) for helping with the video and [CrossCampus](https://www.crosscamp.us) for the space.
