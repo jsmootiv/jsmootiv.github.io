@@ -3,6 +3,8 @@ layout: post
 title: Using game theory to close more sales
 excerpt: Mastering the art of strategy is crucial if you want to be great at sales. That means understanding and knowing how to apply the fundamental principles of game theory to your interactions with clients and customers.
 image: /assets/images/game_of_thrones-1469222254823.jpg
+tags:
+  - sales
 ---
 
 Mastering the art of strategy is crucial if you want to be great at sales. That means understanding and knowing how to apply the fundamental principles of game theory to your interactions with clients and customers. "Strategic thinking is the art of interpreting and revealing information," write economists Avinash Dixit and Barry Nalebuff in their book, [The Art of Strategy](http://www.amazon.com/dp/0393337170/ref=rdr_ext_tmb)"It is the art of putting yourself in others' shoes so as to predict and influence what they will do."
