@@ -1,28 +1,11 @@
 <script src="/js/jquery-3.2.1.min.js"></script>
 
+<!-- Link preloader -->
+<script src="/js/instant-1.1.0.js"></script>
+
 {% if jekyll.environment == 'production' %}
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTFGJTD"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
-<!-- Analytics -->
-<script src="/js/jquery.scrolldepth.min.js"></script>
-<script src="/js/riveted.min.js"></script>
-<script>
-  window.addEventListener("load", function(){
-  if(window.ga && ga.create) {
-    jQuery(function () {
-      jQuery.scrollDepth();
-    });
-    riveted.init();
-  // Hooray! Analytics is present!
-  } else {
-    console.log("GA not loaded")
-  }
-  }, false);
-</script>
 {% endif %}
-
-<!-- Link preloader -->
-<script src="/js/instant-1.1.0.js"></script>
