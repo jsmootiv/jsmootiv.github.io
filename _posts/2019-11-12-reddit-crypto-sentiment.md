@@ -29,8 +29,7 @@ My goal here was to try to figure out if there is a way to do a fairly simple se
 - sPacy
 - Liu and Hu opinion lexicon
 
-#### Methodology
- 
+#### Methodology
 It tests the words in the last 100 reddit titles against words in a known corpus of negative or positive sentiment word. I use the [Liu and Hu opinion lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html).
 
 The scoring algo is fairly naive right now. I create a score for each title (the score is initially 0). Then I walk word by word through each title and add 1 the score for the presence of positive word or subtract 1 for score for negative words.
@@ -38,7 +37,6 @@ The scoring algo is fairly naive right now. I create a score for each ti
 To expand the potential list of dictionary words I compare the word vectors in the title and in the opinion lexicon and if the words have a similarity score of above 75 I consider it positive or negative depending on the word in the dictionary I’m comparing.
 
 ### Results:
-
 The below are the results from this experiment. If, however, you want to interact with the data you can do so on an app I built that does ongoing [crypto sentiment analysis](https://app.disentinel.com).
 
 ~ 10:00a 9/23
