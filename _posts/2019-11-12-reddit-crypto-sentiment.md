@@ -33,7 +33,7 @@ My goal here was to try to figure out if there is a way to do a fairly simple se
 
 #### Methodology
 
-It tests the words in the last 100 reddit titles against words in a known corpus of negative or positive sentiment word. I use the Liu and Hu opinion lexicon.
+It tests the words in the last 100 reddit titles against words in a known corpus of negative or positive sentiment word. I use the Liu and Hu opinion lexicon.
 
 The scoring algo is fairly naive right now. I create a score for each title (the score is initially 0). Then I walk word by word through each title and add 1 the score for the presence of positive word or subtract 1 for score for negative words.
 
