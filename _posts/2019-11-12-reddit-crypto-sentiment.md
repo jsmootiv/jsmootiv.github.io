@@ -3,7 +3,7 @@ layout: post
 title: Cryptocurrency Sentiment Analysis On Reddit
 excerpt: A few weekends ago, I wrote a Reddit sentiment analysis program and applied it to the crypto markets. Lets take a look how it panned out.
 permalink: /assets/images/cryptocurrency-sentiment-reddit/
-image: disentinel-r-btc.png
+image: /assets/images/disentinel-r-btc.png
 tags:
     - cryptocurrency
     - crypto
