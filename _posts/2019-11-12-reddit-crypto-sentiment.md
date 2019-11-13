@@ -36,7 +36,7 @@ It tests the words in the last 100 reddit titles against words in a
 
 The scoring algo is fairly naive right now. I create a score for each title (the score is initially 0). Then I walk word by word through each title and add 1 the score for the presence of positive word or subtract 1 for score for negative words.
 
-To expand the potential list of dictionary words I compare the word vectors in the title and in the opinion lexicon and if the words have a similarity score of above 75 I consider it positive or negative depending on the word in the dictionary I’m comparing.
+To expand the potential list of dictionary words I compare the word vectors in the title and in the opinion lexicon and if the words have a similarity score of above 75 I consider it positive or negative depending on the word in the dictionary I’m comparing.
 
 ### Results
 
