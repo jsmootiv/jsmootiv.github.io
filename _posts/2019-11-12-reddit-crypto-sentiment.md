@@ -40,7 +40,7 @@ To expand the potential list of dictionary words I compare the word vectors in t
 
 ### Results
 
-The below are the results from this experiment. If, however, you want to interact with the data you can do so on via built Disentinel. Disentinel is a [cryptocurrency sentiment analysis tool](https://app.disentinel.com).
+The below are the results from this experiment. If, however, you want to interact with the data you can do so on via built Disentinel. Disentinel is a [cryptocurrency sentiment analysis tool](https://app.disentinel.com?utm_source=jsfour_blog&utm_medium=disentinel_app&utm_campaign=disentinel).
 
 ~ 10:00a 9/23
 
