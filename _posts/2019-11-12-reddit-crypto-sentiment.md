@@ -94,4 +94,4 @@ Given the “weekend project” nature of this project, it was a bit of a hack j
 - I would be interested to see how the method could be applied to tweets
 - Once I collect more data, it would be interesting to see if this is a leading or lagging indicator
 
-**Disclaimer: I don’t claim that this is a trading signal, this project is just something interesting that I was thinking about and I wanted to share the results. If you do use this to trade trade at your own risk. The above references an opinion and is for information purposes only. It is not intended to be investment advice Seek a duly licensed professional for investment advice.**
+**Disclaimer: I don’t claim that this is a trading signal, this project is just something interesting that I was thinking about and I wanted to share the results. If you do use this to trade trade at your own risk. The above references an opinion and is for information purposes only. It is not intended to be investment advice Seek a duly licensed professional for investment advice.**
