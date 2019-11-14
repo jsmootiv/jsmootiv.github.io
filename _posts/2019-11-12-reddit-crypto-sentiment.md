@@ -12,6 +12,8 @@ tags:
     - reddit
 ---
 
+**UPDATE: [Get access to this data for free in a tool I released call Disentinel.](https://app.disentinel.com?utm_source=jsfour_blog&utm_medium=disentinel_app&utm_campaign=disentinel)**
+
 A few weekends ago, I wrote a Reddit sentiment analysis program and applied it to the crypto markets. This analysis scores only the titles of Reddit posts by users to the following subreddits:
 
 - r/bitcoin
